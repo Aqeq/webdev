@@ -6,19 +6,8 @@
 
 // 2. Klik logo → alert (contoh: alert('Selamat datang!'))
 
-// 3. Ambil semua link navigasi (.nav-links a)
-
-// 4. Klik link → tandai yang active (hint: classList.add / classList.remove)
-//    dan console.log nama link-nya
-
-
 // === Quest 2 ===
 
-// 5. Ambil judul hero (.hero-title) → console.log teksnya
+// 3. Ambil semua kartu (.card)
 
-
-// === Quest 3 ===
-
-// 6. Ambil semua kartu (.card)
-
-// 7. Klik kartu → alert isi kartunya (hint: card.querySelector('p').textContent)
+// 4. Klik kartu → alert isi kartunya (hint: card.querySelector('p').textContent)
