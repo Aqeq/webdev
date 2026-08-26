@@ -4,10 +4,10 @@ Slicing design dari Figma ke HTML, CSS, dan JavaScript.
 
 ## Identitas
 
-| | |
-|---|---|
+|          |           |
+| -------- | --------- |
 | **Nama** | Nama Kamu |
-| **NRP** | 00000000 |
+| **NRP**  | 00000000  |
 
 ## Link Figma
 
@@ -26,11 +26,3 @@ Project ini merupakan hasil slicing dari design **Low-Fi Design** yang dibuat di
 - HTML5
 - CSS3
 - JavaScript (DOM manipulation)
-
-## Cara Menjalankan
-
-Cukup buka `index.html` di browser, atau jalankan live server:
-
-```bash
-npx live-server
-```
